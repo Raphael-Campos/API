@@ -1,0 +1,14 @@
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\bin\Release\netcoreapp2.2\CardAPI.deps.json
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\bin\Release\netcoreapp2.2\CardAPI.runtimeconfig.json
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\bin\Release\netcoreapp2.2\CardAPI.runtimeconfig.dev.json
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\bin\Release\netcoreapp2.2\CardAPI.dll
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\bin\Release\netcoreapp2.2\CardAPI.pdb
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.csprojAssemblyReference.cache
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.csproj.CoreCompileInputs.cache
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.RazorAssemblyInfo.cache
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.RazorAssemblyInfo.cs
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.AssemblyInfoInputs.cache
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.AssemblyInfo.cs
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.RazorTargetAssemblyInfo.cache
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.dll
+C:\Users\MMDell\source\repos\CardAPI\CardAPI\obj\Release\netcoreapp2.2\CardAPI.pdb
